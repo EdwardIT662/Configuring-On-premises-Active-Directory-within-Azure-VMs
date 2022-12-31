@@ -41,7 +41,7 @@ Log into the DC and enable ICMPv4 in the local windows Firewall to connect the c
 <br />
 
 <p>
-<img src="https://i.imgur.com/SK5wGO9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/s5zS92W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Installed Active Directory.
