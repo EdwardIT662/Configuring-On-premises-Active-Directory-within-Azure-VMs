@@ -33,9 +33,10 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <p>
 <img src="https://i.imgur.com/jCDSwAb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/wa1eNOk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Log into the DC and enable ICMPv4 in the local windows Firewall .
+Log into the DC and enable ICMPv4 in the local windows Firewall to connect the client and DC. I logged into the client and pinged DC's private IP to ensure the connectivity between the client and the domain controller.
 </p>
 <br />
 
